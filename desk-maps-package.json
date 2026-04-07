@@ -1,0 +1,12 @@
+{
+  "name": "fishtank-desk-maps",
+  "version": "1.0.0",
+  "description": "FishTank Recruitment Desk Flow Maps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
